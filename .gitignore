@@ -40,7 +40,8 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# Custom ignores requested by user
+
+# Python & Virtual Environments
 .env
 __pycache__/
 venv/
